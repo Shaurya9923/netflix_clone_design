@@ -1,6 +1,5 @@
 import React from 'react';
 import "./listItem.scss";
-import trailer_video from './trailer.mp4';
 import { PlayArrow, Add, ThumbUpAltOutlined, ThumbDownOutlined } from '@material-ui/icons';
 import { Link } from 'react-router-dom';
 const ListItem = ({index}) => {
